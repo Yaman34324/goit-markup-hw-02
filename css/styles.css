@@ -1,0 +1,32 @@
+@font-face {
+    font-family: open-sans;
+    src: url('fonts/open_sans/OpenSans-VariableFont_wdth\,wght.ttf');
+}
+@font-face {
+    font-family:roboto;
+    src: url('fonts/roboto/Roboto-VariableFont_wdth\,wght.ttf');
+}
+.buttons:hover {
+    color:#FFFFFF;
+    background-color:#4D5AE5;
+}
+a:hover{
+    color:#404BBF;
+}
+a {
+    color:#434455;
+    text-decoration: none;
+}
+body{
+    font-family:roboto;
+    color:#434455;
+    font-size:16px;
+    line-height:1.5;
+}
+.first{
+    background-color:rgba(46, 47, 66, 1);
+}
+h1{
+    color:rgba(255, 255, 255, 1);
+    line-height:60px;
+}
